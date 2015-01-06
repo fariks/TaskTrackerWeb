@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="TaskTrackerWeb:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/TaskTrackerWeb_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TaskTrackerWeb/ejb/EJB" />
+      <element id="module-output" name="TaskTrackerWeb" />
+    </root>
+  </artifact>
+</component>
